@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+nav {
+    background-color: #BE3144;
+    padding: 2rem;
+    position: fixed;
+    text-align: right;
+    width: 100vw;
+}
+
+nav > a {
+    color: white;
+    font-size: 2rem;
+    text-decoration: none;
+    margin-right: .5rem;
+}
+
+#welcome-section {
+    
+}
