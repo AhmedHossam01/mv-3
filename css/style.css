@@ -6,10 +6,10 @@
 nav {
     background-color: #BE3144;
     padding: 2rem;
-    position: relative;
-    margin-bottom: 80px;
+    position: fixed;
+    top: 0;
     text-align: right;
-    width: 100vw;
+    width: 100%;
 }
 
 nav > a {
@@ -22,4 +22,5 @@ nav > a {
 #welcome-section {
     color: white;
     background-color: #242426;
+    margin-top: 110px;
 }
