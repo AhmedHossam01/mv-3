@@ -22,5 +22,14 @@ nav > a {
 #welcome-section {
     color: white;
     background-color: #242426;
-    margin-top: 110px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    height: 60vh;
+}
+p {
+    color: #BE3143;
 }
