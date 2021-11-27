@@ -6,7 +6,8 @@
 nav {
     background-color: #BE3144;
     padding: 2rem;
-    position: fixed;
+    position: relative;
+    margin-bottom: 80px;
     text-align: right;
     width: 100vw;
 }
@@ -19,5 +20,6 @@ nav > a {
 }
 
 #welcome-section {
-    
+    color: white;
+    background-color: #242426;
 }
