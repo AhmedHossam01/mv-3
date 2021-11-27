@@ -87,4 +87,28 @@ p {
     margin-top: 2rem;
     display: block;
     width: 200px;
+    box-sizing: inherit;
+}
+
+#contact {
+    background-color: #313841;
+    text-align: center;
+    text-decoration: none;
+    padding: 5rem;
+    color: white;
+
+}
+#contact > p {
+    color: white;
+    padding: 1rem;
+}
+
+#footer{
+    background-color: #313841;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    display: flex;
+    margin-top: -120px;
 }
